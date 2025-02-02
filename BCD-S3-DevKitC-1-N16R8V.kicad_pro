@@ -614,7 +614,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "production/gerber/",
+      "plot": "BCD-S3-DevKitC-1-N16R8V.production/gerber/",
       "pos_files": "production/assembly/",
       "specctra_dsn": "",
       "step": "",
@@ -777,7 +777,7 @@
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "Racine"
+      "Root"
     ]
   ],
   "text_variables": {}

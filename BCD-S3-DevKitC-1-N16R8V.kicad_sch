@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "BCD-S3-DevKitC-1")
-		(date "2025-01-05")
-		(rev "1.0")
+		(date "2025-02-02")
+		(rev "1.1")
 		(company "Beaupré Circuit Design")
 		(comment 1 "https://github.com/Beaupre-Circuit-Design")
 	)
@@ -10383,7 +10383,6 @@
 	)
 	(label "GPIO^{35}"
 		(at 121.92 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10394,7 +10393,6 @@
 	)
 	(label "RX"
 		(at 179.07 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10405,7 +10403,6 @@
 	)
 	(label "GPIO^{42}"
 		(at 121.92 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10416,7 +10413,6 @@
 	)
 	(label "RGB^{OUT}"
 		(at 190.5 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10427,7 +10423,6 @@
 	)
 	(label "GPIO^{46}"
 		(at 151.13 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10438,7 +10433,6 @@
 	)
 	(label "GPIO^{4}"
 		(at 76.2 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10448,8 +10442,7 @@
 		(uuid "090e240f-a1d1-4472-9518-a3bcd980615a")
 	)
 	(label "RGB^{OUT}"
-		(at 163.83 168.91 90)
-		(fields_autoplaced yes)
+		(at 149.86 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10460,7 +10453,6 @@
 	)
 	(label "GPIO^{5}"
 		(at 151.13 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10471,7 +10463,6 @@
 	)
 	(label "GPIO^{45}"
 		(at 179.07 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10482,7 +10473,6 @@
 	)
 	(label "GPIO^{13}"
 		(at 76.2 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10493,7 +10483,6 @@
 	)
 	(label "GPIO^{5}"
 		(at 76.2 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10504,7 +10493,6 @@
 	)
 	(label "GPIO^{14}"
 		(at 76.2 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10515,7 +10503,6 @@
 	)
 	(label "OTG_D-"
 		(at 121.92 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10526,7 +10513,6 @@
 	)
 	(label "~{RTS}"
 		(at 88.9 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10537,7 +10523,6 @@
 	)
 	(label "TX"
 		(at 121.92 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10548,7 +10533,6 @@
 	)
 	(label "GPIO^{15}"
 		(at 76.2 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10559,7 +10543,6 @@
 	)
 	(label "GPIO^{7}"
 		(at 151.13 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10570,7 +10553,6 @@
 	)
 	(label "TX"
 		(at 57.15 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10581,7 +10563,6 @@
 	)
 	(label "GPIO^{17}"
 		(at 151.13 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10592,7 +10573,6 @@
 	)
 	(label "GPIO^{21}"
 		(at 121.92 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10603,7 +10583,6 @@
 	)
 	(label "RGB^{PIN}"
 		(at 179.07 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10614,7 +10593,6 @@
 	)
 	(label "GPIO^{38}"
 		(at 179.07 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10625,7 +10603,6 @@
 	)
 	(label "GPIO^{35}"
 		(at 179.07 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10636,7 +10613,6 @@
 	)
 	(label "GPIO^{9}"
 		(at 76.2 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10647,7 +10623,6 @@
 	)
 	(label "GPIO^{1}"
 		(at 76.2 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10658,7 +10633,6 @@
 	)
 	(label "GPIO^{4}"
 		(at 151.13 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10669,7 +10643,6 @@
 	)
 	(label "TX"
 		(at 179.07 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10680,7 +10653,6 @@
 	)
 	(label "GPIO^{37}"
 		(at 179.07 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10691,7 +10663,6 @@
 	)
 	(label "GPIO^{39}"
 		(at 179.07 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10702,7 +10673,6 @@
 	)
 	(label "GPIO^{8}"
 		(at 151.13 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10713,7 +10683,6 @@
 	)
 	(label "GPIO^{38}"
 		(at 121.92 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10724,7 +10693,6 @@
 	)
 	(label "GPIO^{3}"
 		(at 76.2 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10735,7 +10703,6 @@
 	)
 	(label "GPIO^{1}"
 		(at 179.07 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10746,7 +10713,6 @@
 	)
 	(label "GPIO^{9}"
 		(at 151.13 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10757,7 +10723,6 @@
 	)
 	(label "UART_D+"
 		(at 48.26 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10768,7 +10733,6 @@
 	)
 	(label "OTG_D+"
 		(at 179.07 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10779,7 +10743,6 @@
 	)
 	(label "GPIO^{2}"
 		(at 179.07 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10790,7 +10753,6 @@
 	)
 	(label "GPIO^{41}"
 		(at 179.07 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10801,7 +10763,6 @@
 	)
 	(label "GPIO^{40}"
 		(at 179.07 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10812,7 +10773,6 @@
 	)
 	(label "GPIO^{0}"
 		(at 113.03 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10823,7 +10783,6 @@
 	)
 	(label "GPIO^{21}"
 		(at 179.07 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10834,7 +10793,6 @@
 	)
 	(label "RX"
 		(at 121.92 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10845,7 +10803,6 @@
 	)
 	(label "GPIO^{37}"
 		(at 121.92 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10856,7 +10813,6 @@
 	)
 	(label "GPIO^{14}"
 		(at 151.13 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10867,7 +10823,6 @@
 	)
 	(label "GPIO^{42}"
 		(at 179.07 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10878,7 +10833,6 @@
 	)
 	(label "GPIO^{48}"
 		(at 166.37 168.91 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10889,7 +10843,6 @@
 	)
 	(label "GPIO^{39}"
 		(at 121.92 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10900,7 +10853,6 @@
 	)
 	(label "GPIO^{0}"
 		(at 76.2 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10911,7 +10863,6 @@
 	)
 	(label "~{RESET}"
 		(at 76.2 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10922,7 +10873,6 @@
 	)
 	(label "GPIO^{41}"
 		(at 121.92 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10933,7 +10883,6 @@
 	)
 	(label "GPIO^{48}"
 		(at 121.92 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10944,7 +10893,6 @@
 	)
 	(label "GPIO^{18}"
 		(at 151.13 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10955,7 +10903,6 @@
 	)
 	(label "GPIO^{8}"
 		(at 76.2 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10966,7 +10913,6 @@
 	)
 	(label "GPIO^{15}"
 		(at 151.13 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10977,7 +10923,6 @@
 	)
 	(label "GPIO^{0}"
 		(at 179.07 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10988,7 +10933,6 @@
 	)
 	(label "GPIO^{10}"
 		(at 76.2 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10999,7 +10943,6 @@
 	)
 	(label "GPIO^{36}"
 		(at 179.07 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11010,7 +10953,6 @@
 	)
 	(label "OTG_D-"
 		(at 179.07 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11021,7 +10963,6 @@
 	)
 	(label "OTG_D+"
 		(at 55.88 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11032,7 +10973,6 @@
 	)
 	(label "GPIO^{11}"
 		(at 151.13 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11043,7 +10983,6 @@
 	)
 	(label "GPIO^{7}"
 		(at 76.2 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11054,7 +10993,6 @@
 	)
 	(label "GPIO^{16}"
 		(at 76.2 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11065,7 +11003,6 @@
 	)
 	(label "GPIO^{12}"
 		(at 76.2 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11076,7 +11013,6 @@
 	)
 	(label "GPIO^{11}"
 		(at 76.2 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11087,7 +11023,6 @@
 	)
 	(label "~{RESET}"
 		(at 151.13 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11098,7 +11033,6 @@
 	)
 	(label "OTG_D+"
 		(at 121.92 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11109,7 +11043,6 @@
 	)
 	(label "RGB^{IN}"
 		(at 177.8 156.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11120,7 +11053,6 @@
 	)
 	(label "RX"
 		(at 67.31 58.42 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11131,7 +11063,6 @@
 	)
 	(label "GPIO^{12}"
 		(at 151.13 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11142,7 +11073,6 @@
 	)
 	(label "GPIO^{17}"
 		(at 121.92 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11153,7 +11083,6 @@
 	)
 	(label "GPIO^{13}"
 		(at 151.13 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11164,7 +11093,6 @@
 	)
 	(label "OTG_D-"
 		(at 48.26 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11175,7 +11103,6 @@
 	)
 	(label "GPIO^{36}"
 		(at 121.92 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11186,7 +11113,6 @@
 	)
 	(label "GPIO^{46}"
 		(at 121.92 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11197,7 +11123,6 @@
 	)
 	(label "~{DTR}"
 		(at 77.47 25.4 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11208,7 +11133,6 @@
 	)
 	(label "GPIO^{18}"
 		(at 121.92 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11219,7 +11143,6 @@
 	)
 	(label "GPIO^{10}"
 		(at 151.13 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11230,7 +11153,6 @@
 	)
 	(label "GPIO^{2}"
 		(at 76.2 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11240,8 +11162,7 @@
 		(uuid "e07b1abe-fc30-4cf4-ae79-a4d53e4ed1b2")
 	)
 	(label "RGB^{PIN}"
-		(at 149.86 156.21 0)
-		(fields_autoplaced yes)
+		(at 163.83 168.91 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11252,7 +11173,6 @@
 	)
 	(label "GPIO^{47}"
 		(at 121.92 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11263,7 +11183,6 @@
 	)
 	(label "GPIO^{6}"
 		(at 76.2 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11274,7 +11193,6 @@
 	)
 	(label "GPIO^{47}"
 		(at 179.07 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11285,7 +11203,6 @@
 	)
 	(label "GPIO^{16}"
 		(at 151.13 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11296,7 +11213,6 @@
 	)
 	(label "RGB^{IN}"
 		(at 146.05 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11307,7 +11223,6 @@
 	)
 	(label "GPIO^{6}"
 		(at 151.13 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11318,7 +11233,6 @@
 	)
 	(label "GPIO^{3}"
 		(at 151.13 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11329,7 +11243,6 @@
 	)
 	(label "GPIO^{40}"
 		(at 121.92 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11340,7 +11253,6 @@
 	)
 	(label "UART_D-"
 		(at 48.26 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11351,7 +11263,6 @@
 	)
 	(label "GPIO^{45}"
 		(at 121.92 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11362,7 +11273,6 @@
 	)
 	(label "~{RESET}"
 		(at 113.03 20.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13939,7 +13849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "BeaupreCircuitDesign:BDC_QR_2.5mm"
+		(property "Footprint" "BCD-S3-DevKitC-1-N16R8V:BCD-S3-DevKitC-1_5mm"
 			(at 177.8 177.8 0)
 			(effects
 				(font

@@ -6,7 +6,7 @@
 	(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 	(tags "LED")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 1.78 0 90)
 		(layer "B.SilkS")
 		(uuid "292741c4-f38a-46be-96b4-e8e4adda1eb8")
 		(effects
@@ -87,6 +87,76 @@
 		)
 		(layer "B.SilkS")
 		(uuid "14a2ba1c-1389-4245-b264-01e350a58427")
+	)
+	(fp_line
+		(start -0.75 -0.005)
+		(end -0.35 -0.005)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "33024103-0ec0-4f95-aec1-a0d8051ad903")
+	)
+	(fp_line
+		(start -0.35 -0.005)
+		(end -0.35 -0.555)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "a6c8503d-8364-49ad-8768-ac9d5aeca36f")
+	)
+	(fp_line
+		(start -0.35 -0.005)
+		(end -0.35 0.545)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "95823839-a498-4a78-af6a-26d1fd847d76")
+	)
+	(fp_line
+		(start -0.35 -0.005)
+		(end 0.25 -0.405)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "6f360308-3b56-400f-808e-f7b314eb933d")
+	)
+	(fp_line
+		(start 0.25 -0.405)
+		(end 0.25 0.395)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "8583e942-65e2-4def-9287-e04819269b9f")
+	)
+	(fp_line
+		(start 0.25 -0.005)
+		(end 0.75 -0.005)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "3456e760-9b4a-446f-a307-74d6637cb313")
+	)
+	(fp_line
+		(start 0.25 0.395)
+		(end -0.35 -0.005)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "bf1dc956-6bc2-4dc3-a062-26861d782390")
 	)
 	(fp_line
 		(start 0.8 -0.735)
