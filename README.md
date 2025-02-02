@@ -51,8 +51,10 @@ The board layout and bill of material has been optimised for JLCPCB's capabiliti
 
 ## Version History
 
+* 1.1(2025-02-02)
+    * Fix error in RGB48 Jumper.
 * 1.0(2025-01-05)
-    * Initial Release
+    * Initial Release.
 
 ## License
 
