@@ -39,8 +39,8 @@ An ESP32-S3 development board based on Espressif's ESP32-S3-DevKitC-1.
 |Jumper|Effect|
 |------|------|
 |![Default](/BCD-S3-DevKitC-1-N16R8V.images/RGB48_Default.png)|Default Configuration, RGB48 pin is the output of the RGBLed.|
-|![Mode 1](/BCD-S3-DevKitC-1-N16R8V.images/RGB48_mode1.png)|RGB48 pin is the output of GPIO48, Led is still active and drive by GPIO48. [^2]|
-|![Mode 2](/BCD-S3-DevKitC-1-N16R8V.images/RGB48_mode2.png)|RGB48 pin is the output of GPIO48, Led is deactivated. [^2][^3]|
+|![Mode 1](/BCD-S3-DevKitC-1-N16R8V.images/RGB48_Mode1.png)|RGB48 pin is the output of GPIO48, Led is still active and drive by GPIO48. [^2]|
+|![Mode 2](/BCD-S3-DevKitC-1-N16R8V.images/RGB48_Mode2.png)|RGB48 pin is the output of GPIO48, Led is deactivated. [^2][^3]|
 
 [^2]: If the output of the RGBLed is still needed, a wire can be soldered to the leftmost pad.
 [^3]: The RGBLed can still be driven by soldering a wire to the rightmost pad.
