@@ -25,7 +25,7 @@ An ESP32-S3 development board based on Espressif's ESP32-S3-DevKitC-1.
 |USB Led               |Indicate if the USB port is connected.|
 |3V3 Power On          |Indicate if the 3V3 bus is powered.|
 |TX Led                |Indicate if the serial bus is transmitting.|
-|RX Led                |Indicate if the serial bus is transmitting.|
+|RX Led                |Indicate if the serial bus is receiving.|
 |RGB Led               |Addressable RGB LED, driven by GPIO48.|
 
 [^1]: GPIO35, GPIO36 and GPIO37 are used for the internal communication between ESP32-S3 and SPI flash/PSRAM memory, thus not available for external use.|
