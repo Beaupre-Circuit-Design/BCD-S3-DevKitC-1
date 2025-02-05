@@ -47,7 +47,7 @@ An ESP32-S3 development board based on Espressif's ESP32-S3-DevKitC-1.
 
 ## Bulding / Ordering PCB
 
-The board layout and bill of material has been optimised for JLCPCB's capabilities and inventories to minimise cost. The footprint for the ESP32-S3 module has been optimised for hand-soldering since this part alone greatly increase the price of the assembly.
+The [board layout](BCD-S3-DevKitC-1-N16R8V.production/gerber) and [bill of material](BCD-S3-DevKitC-1-N16R8V.production/assembly) has been optimised for JLCPCB's capabilities and inventories to minimise cost. The footprint for the ESP32-S3 module has been optimised for hand-soldering since this part alone greatly increase the price of the assembly.
 
 ## Version History
 
